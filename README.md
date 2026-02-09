@@ -23,3 +23,16 @@ This project predicts whether a customer will default on a credit card payment u
 
 ## Result
 The model predicts credit card default with good accuracy and helps in financial risk analysis.
+## Model Evaluation
+
+The Logistic Regression model was evaluated using:
+
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+The model successfully predicts credit card default risk based on customer financial data.
+## Dataset
+
+The dataset used in this project is the Credit Card Default dataset obtained from the UCI Machine Learning Repository.
+It contains customer demographic data, credit history, and payment records.
